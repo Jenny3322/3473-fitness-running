@@ -1,5 +1,5 @@
 {
-  "name": "fitness-running-3473",
+  "name": "3473-fitness-running",
   "main": "dist/server/index.js",
   "compatibility_date": "2026-11-21",
   "workers_dev": true,
