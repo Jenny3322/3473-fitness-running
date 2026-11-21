@@ -1,0 +1,9 @@
+{
+  "name": "fitness-running-3473",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-11-21",
+  "workers_dev": true,
+  "build": {
+    "command": "node scripts/build.mjs"
+  }
+}
