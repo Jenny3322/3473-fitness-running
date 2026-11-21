@@ -5,5 +5,13 @@
   "workers_dev": true,
   "build": {
     "command": "node scripts/build.mjs"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "fitness-running-survey",
+      "database_id": "87005d48-0dfa-40c4-a91a-fdfec328edbf",
+      "migrations_dir": "drizzle"
+    }
+  ]
 }
